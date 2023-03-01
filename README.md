@@ -2,8 +2,4 @@
 
 This is awsome website
 
-from example branch
-
-now editing on update-readme
-
-edited locally,then remotly
+update made on github before rebase
